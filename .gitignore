@@ -28,4 +28,9 @@ cmake_install.cmake
 # IDE
 *.swp
 .idea
-.vs*
+vs*
+
+# Temps
+*~
+.*.un~
+
