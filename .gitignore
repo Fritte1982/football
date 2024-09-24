@@ -34,3 +34,7 @@ vs*
 *~
 .*.un~
 
+# new editor
+--wait
+-wait
+
