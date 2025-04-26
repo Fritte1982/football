@@ -6,18 +6,18 @@ build/
 __pycache__
 dist/
 # virtual environment
-football-env*/
+#football-env*/
 
 # CMake related directories and files
-third_party/gfootball_engine/build*
-third_party/gfootball_engine/CMakeFiles/
-third_party/gfootball_engine/Testing/
-third_party/gfootball_engine/.cmake/
-cmake-build-*/
-vcpkg_installed/
-C[M,m]akeCache.txt
-Makefile
-cmake_install.cmake
+# third_party/gfootball_engine/build*
+# third_party/gfootball_engine/CMakeFiles/
+# third_party/gfootball_engine/Testing/
+# third_party/gfootball_engine/.cmake/
+# cmake-build-*/
+# vcpkg_installed/
+# C[M,m]akeCache.txt
+# Makefile
+# cmake_install.cmake
 *.a
 *.so
 *.dylib
